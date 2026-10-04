@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Vũ Minh Điềm — 2A202602858
 **Repo:** https://github.com/diemvu12369/K4-Track02-Day17-VuMinhDiem-2A202602858-DataPipelineEngineering
-**Commit bài nộp:** commit mới nhất trên `main` (các fix: `a63294a` Silver, `db81240` late data, `fc8165c` CDC delete; bonus B1 `eb2d805`)
+**Commit bài nộp:** `4b5e200` — code đã sửa + output + checksums (commit sau đó chỉ ghi hash này vào REPORT). Các fix: `a63294a` Silver, `db81240` late data, `fc8165c` CDC delete; bonus B1 `eb2d805`.
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Claude Code (Claude Opus 5.5) — đọc code, định vị lỗi, đề xuất bản sửa, chạy các lệnh kiểm tra và soạn nháp report/bonus; tôi đã đọc lại và giải thích được từng dòng sửa.
 **Nguồn tham khảo khác (nếu có):** slide Ngày 17; tài liệu Debezium (định dạng envelope `before`/`after`/`op`).
 
